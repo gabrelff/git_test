@@ -1,0 +1,3 @@
+Utilizando o git pela primeira vez,
+aprendendo a utilizar atraves do
+projeto The Odin Project 
